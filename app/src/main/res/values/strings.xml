@@ -1,0 +1,10 @@
+<resources>
+    <string name="pull_footer_load">Pull Up To Load</string>
+    <string name="pull_footer_let_go_load">Release To Load</string>
+    <string name="pull_footer_loading">Loading</string>
+    <string name="pull_footer_load_suc">Loading Completed</string>
+    <string name="pull_header_refresh">Pull down to Refresh</string>
+    <string name="pull_header_let_go_refresh">Release To Refresh</string>
+    <string name="pull_header_refreshing">Refreshing</string>
+    <string name="pull_header_refresh_suc">Refresh Completed</string>
+</resources>

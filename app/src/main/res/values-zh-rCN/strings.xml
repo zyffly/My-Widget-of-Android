@@ -1,0 +1,10 @@
+<resources>
+    <string name="pull_footer_load">上拉加载</string>
+    <string name="pull_footer_let_go_load">松手加载</string>
+    <string name="pull_footer_loading">正在加载</string>
+    <string name="pull_footer_load_suc">加载完成</string>
+    <string name="pull_header_refresh">下拉刷新</string>
+    <string name="pull_header_let_go_refresh">松手刷新</string>
+    <string name="pull_header_refreshing">正在刷新</string>
+    <string name="pull_header_refresh_suc">刷新完成</string>
+</resources>
